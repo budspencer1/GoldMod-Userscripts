@@ -21,5 +21,5 @@ Installation:
 
 Bugs: 
 
-<Look at https://github.com/budspencer1/GoldMod-Sauerbraten/ to report bugs, but specify, what script and where>
+Look at https://github.com/budspencer1/GoldMod-Sauerbraten/ to report bugs, but specify, what script and where ;)
 
